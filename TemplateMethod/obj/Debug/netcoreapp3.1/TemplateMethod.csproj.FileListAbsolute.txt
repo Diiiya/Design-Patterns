@@ -1,0 +1,13 @@
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache

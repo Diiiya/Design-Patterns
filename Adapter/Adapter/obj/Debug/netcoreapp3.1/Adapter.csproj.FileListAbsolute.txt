@@ -1,0 +1,13 @@
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

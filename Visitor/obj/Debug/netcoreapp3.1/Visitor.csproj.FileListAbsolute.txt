@@ -1,0 +1,13 @@
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache

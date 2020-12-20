@@ -1,0 +1,13 @@
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

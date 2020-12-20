@@ -1,0 +1,13 @@
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\bin\Debug\netcoreapp3.1\Command.exe
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\bin\Debug\netcoreapp3.1\Command.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\bin\Debug\netcoreapp3.1\Command.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.csprojAssemblyReference.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache

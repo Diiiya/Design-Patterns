@@ -1,0 +1,13 @@
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+D:\UNI\KEA\DesignPatterns\Design patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
